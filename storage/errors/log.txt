@@ -1,0 +1,8 @@
+[09/10/2017 10:45:37] ERROR - http://www.carid.com/evo-manufacturing/bolt-on-coilover-kit.html - DATA NOT FOUND
+[09/10/2017 10:48:44] ERROR - http://www.carid.com/belltech/coilover-lowering-kit.html - DATA NOT FOUND
+[09/10/2017 11:20:35] ERROR - http://www.carid.com/evo-manufacturing/bolt-on-coilover-kit.html - DATA NOT FOUND
+[09/10/2017 11:23:32] ERROR - http://www.carid.com/belltech/coilover-lowering-kit.html - DATA NOT FOUND
+[09/10/2017 12:41:41] ERROR - http://www.carid.com/evo-manufacturing/bolt-on-coilover-kit.html - DATA NOT FOUND
+[09/10/2017 12:45:02] ERROR - http://www.carid.com/belltech/coilover-lowering-kit.html - DATA NOT FOUND
+[09/10/2017 17:38:22] ERROR - http://www.carid.com/evo-manufacturing/bolt-on-coilover-kit.html - DATA NOT FOUND
+[09/10/2017 17:41:57] ERROR - http://www.carid.com/belltech/coilover-lowering-kit.html - DATA NOT FOUND
